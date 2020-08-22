@@ -21,3 +21,5 @@ Localize a pasta:
 Execute para Build:
 
 # docker-compose up -d
+
+
