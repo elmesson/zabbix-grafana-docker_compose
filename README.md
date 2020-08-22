@@ -6,20 +6,20 @@
 - [Zabbix Frontend DockerHub](https://hub.docker.com/r/zabbix/zabbix-web-nginx-mysql)
 - [Grafana](https://grafana.com/docs/grafana/latest/installation/docker/)
 
-Crie uma pasta Temp:
+##Crie uma pasta Temp:
 
-#   mkdir tmp
+###   mkdir tmp
 
-Acesse a pasta:
+##Acesse a pasta:
 
-# cd /tmp
+### cd /tmp
 
-Localize a pasta:
+##Localize a pasta:
 
-# cd /zabbix-grafana-docker_compose
+### cd /zabbix-grafana-docker_compose
 
-Execute para Build:
+##Execute para Build:
 
-# docker-compose up -d
+### docker-compose up -d
 
 
